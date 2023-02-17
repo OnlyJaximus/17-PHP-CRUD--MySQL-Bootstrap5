@@ -13,6 +13,8 @@ https://getbootstrap.com/docs/5.1/components/alerts/#dismissing   <br>
 ![5](https://user-images.githubusercontent.com/56784702/219748908-1510a738-ce91-4f38-921b-14bb38fd8bbd.png)
 ![6](https://user-images.githubusercontent.com/56784702/219748917-9147216a-19fa-4190-8a5d-ba522f7f6d9f.png)
 ![7](https://user-images.githubusercontent.com/56784702/219748934-cb78b8da-d8bc-45cd-86bd-4fe9539a276d.png)
+![8](https://user-images.githubusercontent.com/56784702/219750869-afbbcc76-c3ea-4eca-82a8-f22b0e23660b.png)
+
 ![110](https://user-images.githubusercontent.com/56784702/219748947-aef770d3-4bab-4351-b07e-a669a8ebb28f.png)
 ![111](https://user-images.githubusercontent.com/56784702/219748972-6fc9caa5-21f9-4e58-9480-6bcccd6b82c3.png)
 
